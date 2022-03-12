@@ -17,3 +17,5 @@ credentials.json
 *.pfx
 
 terraform.tfvars
+
+.idea
