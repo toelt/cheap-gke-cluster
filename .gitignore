@@ -19,3 +19,4 @@ credentials.json
 terraform.tfvars
 
 .idea
+/terraform/certs/
